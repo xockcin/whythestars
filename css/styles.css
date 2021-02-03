@@ -9,6 +9,13 @@ body {
     margin-top: 50px;
 }
 
+#thestars {
+    color:goldenrod;
+    text-align:center;
+    font-family: serif;
+    margin-bottom: 100px;
+}
+
 nav, footer {
     background-image: linear-gradient( #bb771f, gold);
     font-family: serif;
