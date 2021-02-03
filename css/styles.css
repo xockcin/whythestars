@@ -59,3 +59,8 @@ footer {
 input {
     background-color: beige;
 }
+
+a {
+    color: inherit;
+    padding: 2px;
+}
